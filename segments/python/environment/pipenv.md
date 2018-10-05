@@ -10,6 +10,8 @@ You can use pip to install pipenv
 pip install --user pipenv
 ```
 
+Note: if you are on a mac user then we recommend using homebrew to install pipenv - `brew install pipenv`.
+
 See [Python Environment Guide](https://docs.python-guide.org/dev/virtualenvs/) for a guide to using pipenv.
 
 Once you have everything you need you can activate your environment.
